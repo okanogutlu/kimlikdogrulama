@@ -1,7 +1,7 @@
 import React from 'react';
 import {Text} from 'react-native';
 
-const Header = probs => {
+const Header = props => {
   return (
     <Text style={(styles.textStyle, styles.viewStyle)}>
       {' '}

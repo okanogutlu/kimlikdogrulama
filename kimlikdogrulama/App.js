@@ -58,7 +58,7 @@ class App extends Component {
   render() {
     return (
       <View>
-        <Header headerText="KimlikDogrulama" />
+        <Header headerText="KIMLIK DOGRULAMA" />
         {this.renderContent()}
       </View>
     );
